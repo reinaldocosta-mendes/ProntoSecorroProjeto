@@ -1,0 +1,15 @@
+C:\Users\rcostame\source\repos\ProntoSecorro\bin\Debug\net6.0\ProntoSecorro.exe
+C:\Users\rcostame\source\repos\ProntoSecorro\bin\Debug\net6.0\ProntoSecorro.deps.json
+C:\Users\rcostame\source\repos\ProntoSecorro\bin\Debug\net6.0\ProntoSecorro.runtimeconfig.json
+C:\Users\rcostame\source\repos\ProntoSecorro\bin\Debug\net6.0\ProntoSecorro.dll
+C:\Users\rcostame\source\repos\ProntoSecorro\bin\Debug\net6.0\ProntoSecorro.pdb
+C:\Users\rcostame\source\repos\ProntoSecorro\obj\Debug\net6.0\ProntoSecorro.csproj.AssemblyReference.cache
+C:\Users\rcostame\source\repos\ProntoSecorro\obj\Debug\net6.0\ProntoSecorro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcostame\source\repos\ProntoSecorro\obj\Debug\net6.0\ProntoSecorro.AssemblyInfoInputs.cache
+C:\Users\rcostame\source\repos\ProntoSecorro\obj\Debug\net6.0\ProntoSecorro.AssemblyInfo.cs
+C:\Users\rcostame\source\repos\ProntoSecorro\obj\Debug\net6.0\ProntoSecorro.csproj.CoreCompileInputs.cache
+C:\Users\rcostame\source\repos\ProntoSecorro\obj\Debug\net6.0\ProntoSecorro.dll
+C:\Users\rcostame\source\repos\ProntoSecorro\obj\Debug\net6.0\refint\ProntoSecorro.dll
+C:\Users\rcostame\source\repos\ProntoSecorro\obj\Debug\net6.0\ProntoSecorro.pdb
+C:\Users\rcostame\source\repos\ProntoSecorro\obj\Debug\net6.0\ProntoSecorro.genruntimeconfig.cache
+C:\Users\rcostame\source\repos\ProntoSecorro\obj\Debug\net6.0\ref\ProntoSecorro.dll
